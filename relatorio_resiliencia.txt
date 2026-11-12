@@ -1,0 +1,8 @@
+  [SEM-RESPOSTA] tentativa 1 falhou (TIMEOUT), nova tentativa em 2s
+  [SEM-RESPOSTA] tentativa 2 falhou (TIMEOUT), nova tentativa em 4s
+
+=== RELATORIO FINAL ===
+SAUDAVEL       OK                 hostname=par391912b (tentativa 1)
+SENHA-ERRADA   AUTENTICACAO       usuario/senha/chave invalidos (tentativas: 1)
+PORTA-FECHADA  CONEXAO RECUSADA   servico SSH parado ou porta bloqueada (tentativas: 1)
+SEM-RESPOSTA   TIMEOUT            equipamento desligado, rota ausente ou firewall (tentativas: 3)

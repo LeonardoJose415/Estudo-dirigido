@@ -1,0 +1,74 @@
+[
+  {
+    "dispositivo": "R1",
+    "host": "127.0.0.1",
+    "usuario": "r1",
+    "timestamp": "2026-11-05 21:08:12",
+    "status": "SUCESSO",
+    "comandos": {
+      "hostname": {
+        "codigo_retorno": 0,
+        "saida": "par391912b",
+        "erro": ""
+      },
+      "whoami": {
+        "codigo_retorno": 0,
+        "saida": "r1",
+        "erro": ""
+      },
+      "uptime -p": {
+        "codigo_retorno": 0,
+        "saida": "up 7 minutes",
+        "erro": ""
+      }
+    }
+  },
+  {
+    "dispositivo": "R2",
+    "host": "127.0.0.1",
+    "usuario": "r2",
+    "timestamp": "2026-11-05 21:08:12",
+    "status": "SUCESSO",
+    "comandos": {
+      "hostname": {
+        "codigo_retorno": 0,
+        "saida": "par391912b",
+        "erro": ""
+      },
+      "whoami": {
+        "codigo_retorno": 0,
+        "saida": "r2",
+        "erro": ""
+      },
+      "uptime -p": {
+        "codigo_retorno": 0,
+        "saida": "up 7 minutes",
+        "erro": ""
+      }
+    }
+  },
+  {
+    "dispositivo": "R3",
+    "host": "127.0.0.1",
+    "usuario": "r3",
+    "timestamp": "2026-11-05 21:08:12",
+    "status": "SUCESSO",
+    "comandos": {
+      "hostname": {
+        "codigo_retorno": 0,
+        "saida": "par391912b",
+        "erro": ""
+      },
+      "whoami": {
+        "codigo_retorno": 0,
+        "saida": "r3",
+        "erro": ""
+      },
+      "uptime -p": {
+        "codigo_retorno": 0,
+        "saida": "up 7 minutes",
+        "erro": ""
+      }
+    }
+  }
+]

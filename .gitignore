@@ -1,0 +1,4 @@
+venv-redes/
+venv-linux/
+__pycache__/
+*.pyc
